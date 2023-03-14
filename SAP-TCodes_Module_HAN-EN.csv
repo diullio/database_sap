@@ -1,0 +1,2 @@
+TCODE,TCODE_DESC,TCODE_URL,ABAP_PROGRAM,PACKAGE,PACKAGE_DESC,MODULE,MODULE_DESC,MODULE_URL,MODULE_TOP,MODULE_TOP_DESC,MODULE_TOP_URL,COMPONENT,COMPONENT_DESC,COMPONENT_URL
+HDB_SQLDBC,"SQLDBC Trace for HANA",https://www.sap-tcodes.org/tcode/hdb_sqldbc.html,RSHDB_SQLDBC_CONS,SDBA_HDB,"DBACOCKPIT for NewDB (HDB)",HAN-DB,"SAP HANA Database",https://www.sap-tcodes.org/analytics/module/han-db.html,HAN,"SAP HANA",https://www.sap-tcodes.org/analytics/module/han.html,SAP_BASIS,"SAP Basis Component",https://www.sap-tcodes.org/analytics/component/sap_basis.html
